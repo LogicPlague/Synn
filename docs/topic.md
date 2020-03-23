@@ -1,4 +1,4 @@
-###### THIS FILE WILL NOLONGER BE UPDATED. 
+###### THIS FILE WILL NO LONGER BE UPDATED. 
 
 
 # Synn's simple loadingscreen
